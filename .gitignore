@@ -1,5 +1,4 @@
-# --- EXCLUIR SIEMPRE ---
-data/
+# --- Exclude ---
 models/
 reports/
 src/
@@ -11,6 +10,14 @@ code/Preprocessing/exploratory/
 .venv/
 .idea/
 __pycache__/
+# Exclude data
+data/01_wiki/*
+data/02_csv/*
+data/03_models/*
+data/04_reports/*
+
+# Exceptions
+!**/ .keep
 
 # Extensiones pesadas o temporales
 *.csv
