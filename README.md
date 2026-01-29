@@ -33,7 +33,7 @@ VIU_TFM/
 
 ---
 
-## ⚙️ Requirements and Environment
+## Requirements and Environment
 
 The code was developed and tested using:
 
