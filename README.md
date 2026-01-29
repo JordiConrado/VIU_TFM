@@ -15,12 +15,14 @@ The code is made publicly available in order to **ensure the reproducibility** o
 The general structure of the repository is as follows:
 VIU_TFM/
 ├── data/ # Input data (raw and/or preprocessed)
-│ ├── 01_wiki/ # Wikipedia related files (mainly the list of BOTS from Wikipedia)
-│ ├── 02_csv/ # Repository for all temporary CSV files created
-│ ├── 03_graph/ # Repository for graph data created with NetworkX as part of anañysis
-│ ├── 01_plots/ # Repository for plots and visualizations
-├── code/ # Main source code
-│ ├── Preprocessing/ # Data cleaning, preparation and graph creation
-│ ├── Core_Analysis/ # Metrics and Analysis
+│ ├── 01_wiki/ # Wikipedia-related files (e.g., list of bots)
+│ ├── 02_csv/ # Temporary CSV files generated during processing
+│ ├── 03_graph/ # Graph data created with NetworkX
+│ └── 01_plots/ # Plots and visualizations
+├── src/ # Main source code
+│ ├── preprocessing/ # Data cleaning, preparation, and graph creation
+│ └── aanalysis/ # Network metrics and analysis
 ├── requirements.txt # Project dependencies
 └── README.md # Repository documentation
+
+
