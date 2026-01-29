@@ -1,0 +1,21 @@
+# --- EXCLUIR SIEMPRE ---
+data/
+models/
+reports/
+src/
+temp_results/
+traces/
+code/Model_Test/
+code/Core_Analysis/exploratory/
+code/Preprocessing/exploratory/
+.venv/
+.idea/
+__pycache__/
+
+# Extensiones pesadas o temporales
+*.csv
+*.xlsx
+*.png
+*.pdf
+*.zip
+*.log
