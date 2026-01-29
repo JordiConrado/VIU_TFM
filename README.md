@@ -63,8 +63,7 @@ Intermediate and final outputs (e.g., CSV files, graphs, and plots) are stored i
 To reproduce the results presented in the thesis, it is recommended to follow the execution order described in the thesis and ensure that the same input data are used.
 
 ## Author
-Jordi Conrado 
----
+Jordi Conrado
 ## Data Source
 The data used in this project was obtained from Wikipedia dumps located at: https://dumps.wikimedia.org/
 Due to size constraints, the actual data files are not included in this repository. Please download the necessary dumps directly from the provided link and store them locally
@@ -84,7 +83,6 @@ I would like to thank my thesis advisor and the faculty at Universidad Internaci
 This project is licensed under the MIT License.
 
 For more details, see the [LICENSE](LICENSE) file.
----
 ## Contact
 For any questions or inquiries regarding this project, please contact the author via GitHub.
 
