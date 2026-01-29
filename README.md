@@ -13,6 +13,8 @@ The code is made publicly available in order to **ensure the reproducibility** o
 ## Repository Contents
 
 The general structure of the repository is as follows:
+
+```plaintext
 VIU_TFM/
 ├── data/ # Input data (raw and/or preprocessed)
 │ ├── 01_wiki/ # Wikipedia-related files (e.g., list of bots)
@@ -21,7 +23,7 @@ VIU_TFM/
 │ └── 01_plots/ # Plots and visualizations
 ├── src/ # Main source code
 │ ├── preprocessing/ # Data cleaning, preparation, and graph creation
-│ └── aanalysis/ # Network metrics and analysis
+│ └── analysis/ # Network metrics and analysis
 ├── requirements.txt # Project dependencies
 └── README.md # Repository documentation
 
