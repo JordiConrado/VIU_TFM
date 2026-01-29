@@ -1,7 +1,7 @@
 # --- Exclude ---
 models/
 reports/
-src/
+code/
 temp_results/
 traces/
 code/Model_Test/
