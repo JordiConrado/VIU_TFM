@@ -4,9 +4,6 @@ reports/
 code/
 temp_results/
 traces/
-code/Model_Test/
-code/Core_Analysis/exploratory/
-code/Preprocessing/exploratory/
 .venv/
 .idea/
 __pycache__/
